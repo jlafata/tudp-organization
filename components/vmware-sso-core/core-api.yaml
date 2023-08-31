@@ -16,4 +16,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: tas-dev-ex
-  system: vmware-sso-core
+  system: amjs-test-space
