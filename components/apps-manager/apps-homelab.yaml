@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: lab-test
-  description: Apps Manager lab Environment
+  name: homelab
+  description: Apps Manager Homelab Environment
   tags:
     - cloud
   annotations:
@@ -10,7 +10,7 @@ metadata:
     'backstage.io/techdocs-ref': dir:.
   links:
     - url: https://apps.sys.lab.synable.io/
-      title: 'Apps Manager 3.0 Test Environment'
+      title: 'Apps Manager 4.0 Test Environment'
       icon: locallibrary
 spec:
   type: service
