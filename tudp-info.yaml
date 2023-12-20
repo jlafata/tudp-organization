@@ -8,6 +8,7 @@ metadata:
 spec:
   targets:
     - ./components/apps-manager/apps-lab.yaml
+    - ./components/spring-music/spring-music-older.yaml
     - ./groups/org.yaml
     - ./systems/amjs-test-space.yaml
     - ./domains/tanzu-unified-dev-portal.yaml
