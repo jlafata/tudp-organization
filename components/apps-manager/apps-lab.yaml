@@ -1,19 +1,19 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: lakewood-test
-  description: Apps Manager Test Environment
+  name: lab-test
+  description: Apps Manager lab Environment
   tags:
-    - javascript
+    - cloud
   annotations:
-    'backstage.io/kubernetes-label-selector': 'foundation=lakewood'
+    'backstage.io/kubernetes-label-selector': 'foundation=homelab'
     'backstage.io/techdocs-ref': dir:.
   links:
-    - url: https://apps.sys.lakewood.cf-app.com/
+    - url: https://apps.sys.lab.synable.io/
       title: 'Apps Manager 3.0 Test Environment'
       icon: locallibrary
 spec:
   type: service
   lifecycle: experimental
   owner: tas-dev-ex
-  system: amjs-test-space
+  system: demo

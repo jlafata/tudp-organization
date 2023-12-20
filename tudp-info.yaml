@@ -7,9 +7,10 @@ metadata:
     'backstage.io/techdocs-ref': dir:.
 spec:
   targets:
-    - ./components/amjs-test/amjs-test.yaml
-    - ./components/amjs-test-api-app/amjs-test-api-app.yaml
+    - ./components/apps-manager/apps-lab.yaml
     - ./groups/org.yaml
     - ./systems/amjs-test-space.yaml
-    - ./resources/amjs-test-inst.yaml
     - ./domains/tanzu-unified-dev-portal.yaml
+#    - ./resources/amjs-test-inst.yaml
+#    - ./components/cf-api/amjs-test.yaml
+#    - ./components/cf-cli/amjs-test.yaml

@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: spring-music
+  description: Spring Music
+  tags:
+    - java, spring
+  annotations:
+    'backstage.io/kubernetes-label-selector': 'app=spring-music'
+    'backstage.io/techdocs-ref': dir:.
+  links:
+    - url: https://spring-music.apps.lab.synable.io
+      title: 'Spring Music - sample application'
+      icon: locallibrary
+spec:
+  type: service
+  lifecycle: experimental
+  owner: tas-dev-ex
+  system: dem
