@@ -10,7 +10,7 @@ spec:
     - ./components/apps-manager/apps-lab.yaml
     - ./components/spring-music/spring-music-older.yaml
     - ./groups/org.yaml
-    - ./systems/amjs-test-space.yaml
+    - ./systems/demo-demo-space.yaml
     - ./domains/tanzu-unified-dev-portal.yaml
 #    - ./resources/amjs-test-inst.yaml
 #    - ./components/cf-api/amjs-test.yaml

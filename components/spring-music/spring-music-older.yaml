@@ -6,6 +6,7 @@ metadata:
   tags:
     - java
     - spring
+    - cloud
   annotations:
     'backstage.io/kubernetes-label-selector': 'app=spring-music'
     'backstage.io/techdocs-ref': dir:.

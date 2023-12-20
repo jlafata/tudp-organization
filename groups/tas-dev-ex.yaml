@@ -16,22 +16,10 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: ggelashvili
+  name: jlafata
 spec:
   profile:
-    displayName: George Gelashvili
-    email: ggelashvili@vmware.com
-    picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
-  memberOf: [tas-dev-ex]
-
----
-apiVersion: backstage.io/v1alpha1
-kind: User
-metadata:
-  name: lpete
-spec:
-  profile:
-    displayName: Pete Levine
-    email: lpete@vmware.com
+    displayName: John LaFata
+    email: john.lafata@broadcom.com
     picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
   memberOf: [tas-dev-ex]

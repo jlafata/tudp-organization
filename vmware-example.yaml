@@ -13,4 +13,4 @@ spec:
     - ./components/vmware-sso-core/core-web.yaml
     - ./components/apps-manager/apps-lab.yaml
     - ./groups/org.yaml
-    - ./systems/amjs-test-space.yaml
+    - ./systems/demo-demo-space.yaml
