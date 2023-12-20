@@ -4,7 +4,8 @@ metadata:
   name: spring-music
   description: Spring Music
   tags:
-    - java spring
+    - java
+    - spring
   annotations:
     'backstage.io/kubernetes-label-selector': 'app=spring-music'
     'backstage.io/techdocs-ref': dir:.
