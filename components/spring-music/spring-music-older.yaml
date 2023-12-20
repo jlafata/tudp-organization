@@ -17,4 +17,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: tas-dev-ex
-  system: dem
+  system: demo
