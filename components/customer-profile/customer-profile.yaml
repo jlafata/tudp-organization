@@ -9,7 +9,7 @@ metadata:
     - cloud
     - api-docs
   annotations:
-    'backstage.io/kubernetes-label-selector': 'app=core-api'
+    'backstage.io/kubernetes-label-selector': 'app=customer-profile'
     'backstage.io/techdocs-ref': dir:.
   links:
     - url: https://customer-profile.apps.lab.synable.io/api-docs
