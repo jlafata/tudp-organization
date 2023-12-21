@@ -1,4 +1,4 @@
-site_name: 'amjs-test'
+site_name: 'homelab-test'
 
 nav:
   - Home: index.md
