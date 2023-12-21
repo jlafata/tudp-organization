@@ -12,7 +12,7 @@ metadata:
     'backstage.io/kubernetes-label-selector': 'app=core-api'
     'backstage.io/techdocs-ref': dir:.
   links:
-    - url: https://customer-profile.apps.lab.synable.io/api-docs/
+    - url: https://customer-profile.apps.lab.synable.io/api-docs
       title: 'Customer Profile API Docs'
       icon: locallibrary
 spec:
