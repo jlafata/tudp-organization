@@ -1,0 +1,22 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: customer-profile
+  description: customer-profile
+  tags:
+    - java
+    - rest
+    - cloud
+    - api-docs
+  annotations:
+    'backstage.io/kubernetes-label-selector': 'app=core-api'
+    'backstage.io/techdocs-ref': dir:.
+  links:
+    - url: https://customer-profile.apps.lab.synable.io/api-docs/
+      title: 'Customer Profile API Docs'
+      icon: locallibrary
+spec:
+  type: service
+  lifecycle: experimental
+  owner: tas-dev-ex
+  system: demo

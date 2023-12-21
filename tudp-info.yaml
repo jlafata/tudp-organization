@@ -9,6 +9,7 @@ spec:
   targets:
     - ./components/apps-manager/apps-homelab.yaml
     - ./components/spring-music/spring-music-older.yaml
+    - ./components/customer-profile/customer-profile.yaml
     - ./groups/org.yaml
     - ./systems/demo-demo-space.yaml
     - ./domains/tanzu-unified-dev-portal.yaml
