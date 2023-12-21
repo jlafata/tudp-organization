@@ -16,6 +16,8 @@ metadata:
       title: 'Customer Profile API Docs'
       icon: locallibrary
 spec:
+  providesApis:
+    - customer-profile
   type: service
   lifecycle: experimental
   owner: tas-dev-ex
