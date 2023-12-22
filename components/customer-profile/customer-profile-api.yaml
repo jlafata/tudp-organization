@@ -3,11 +3,11 @@ kind: API
 metadata:
   name: customer-profile-api
   description: Customer Profile API
-  tags:
-    - api
-    - java
-    - spring
-    - rest
+#  tags:
+#    - api
+#    - java
+#    - spring
+#    - rest
 spec:
   type: openapi
   lifecycle: experimental
