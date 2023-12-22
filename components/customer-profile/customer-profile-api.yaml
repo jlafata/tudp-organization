@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: customer-profile-api
+  description: Customer Profile API
+  tags:
+    - api
+    - java
+    - spring
+    - rest
+spec:
+  type: openapi
+  lifecycle: development
+  owner: tas-dex-ex
+  system: demo
+  definition:
+    $text: https://customer-profile.apps.lab.synable.io/api-docs

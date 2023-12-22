@@ -17,7 +17,7 @@ metadata:
       icon: locallibrary
 spec:
   providesApis:
-    - customer-profile
+    - customer-profile-api
   type: service
   lifecycle: experimental
   owner: tas-dev-ex
