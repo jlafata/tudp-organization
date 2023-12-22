@@ -10,7 +10,7 @@ metadata:
     - rest
 spec:
   type: openapi
-  lifecycle: development
+  lifecycle: experimental
   owner: tas-dex-ex
   system: demo
   definition:
