@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
   name: tudp-info
-  description: A sample catalog for the tudb application
+  description: A sample catalog for the tanzu User Development Portal
   annotations:
     'backstage.io/techdocs-ref': dir:.
 spec:
