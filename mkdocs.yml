@@ -1,8 +1,8 @@
 site_name: 'Demo Foundation catalog'
 
 nav:
-  - Home: docs/index.md
-  - Adding Documentation: docs/add-docs.md
+  - Home: index.md
+  - Adding Documentation: add-docs.md
 
 plugins:
   - techdocs-core
