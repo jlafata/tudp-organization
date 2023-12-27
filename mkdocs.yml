@@ -1,4 +1,4 @@
-site_name: 'Yelb demo catalog'
+site_name: 'Demo Foundation catalog'
 
 nav:
   - Home: index.md
