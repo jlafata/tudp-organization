@@ -11,6 +11,7 @@ spec:
     - ./components/spring-music/spring-music-older.yaml
     - ./components/customer-profile/customer-profile-api.yaml
     - ./groups/org.yaml
+    - ./groups/tas-dev-ex.yaml
     - ./systems/demo-demo-space.yaml
     - ./domains/tanzu-unified-dev-portal.yaml
 #    - ./resources/amjs-test-inst.yaml

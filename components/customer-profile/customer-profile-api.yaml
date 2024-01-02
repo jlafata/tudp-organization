@@ -14,4 +14,4 @@ spec:
   owner: tas-dex-ex
   system: demo
   definition:
-    $text: https://customer-profile.apps.lab.synable.io/api-docs
+    $text: scg/customer-profile/api-docs
