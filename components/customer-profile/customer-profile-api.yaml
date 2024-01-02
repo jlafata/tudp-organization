@@ -14,4 +14,4 @@ spec:
   owner: tas-dex-ex
   system: demo
   definition:
-    $text: https://gateway-f29ed647-7fd4-4e07-9b22-f1352ef743a4.apps.lab.synable.io/customer-profile/api-docs
+    $text: https://customer-profile.apps.lab.synable.io/api-docs
