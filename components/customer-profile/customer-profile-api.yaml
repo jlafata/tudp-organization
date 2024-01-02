@@ -14,5 +14,5 @@ spec:
   owner: tas-dex-ex
   system: demo
   definition:
-    $json: customer-profile.json
+    $text: customer-profile.json
 #    $text: customer-profile.json
