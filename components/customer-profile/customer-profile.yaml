@@ -7,7 +7,6 @@ metadata:
     - java
     - rest
     - cloud
-    - api-docs
   annotations:
     'backstage.io/kubernetes-label-selector': 'app=customer-profile'
     'backstage.io/techdocs-ref': dir:.
@@ -16,8 +15,6 @@ metadata:
       title: 'Customer Profile API Docs'
       icon: locallibrary
 spec:
-  providesApis:
-    - customer-profile-api
   type: service
   lifecycle: experimental
   owner: tas-dev-ex

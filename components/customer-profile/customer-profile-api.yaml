@@ -16,3 +16,5 @@ spec:
   definition:
     $text: customer-profile.json
 #    $text: customer-profile.json
+  providesApis:
+    - customer-profile
