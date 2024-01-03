@@ -15,6 +15,7 @@ spec:
     - ./groups/tas-dev-ex.yaml
     - ./systems/demo-demo-space.yaml
     - ./domains/tanzu-unified-dev-portal.yaml
+    - ./accelerators/blank.yaml
 #    - ./resources/amjs-test-inst.yaml
 #    - ./components/cf-api/amjs-test.yaml
 #    - ./components/cf-cli/amjs-test.yaml
