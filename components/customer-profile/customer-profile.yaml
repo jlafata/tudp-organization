@@ -19,12 +19,13 @@ spec:
   lifecycle: experimental
   owner: tas-dev-ex
   system: demo
-  providesApi:
-    - customer-profile
-    - customer-profile-api
-  apiProvidedBy:
-    - customer-profile
-    - customer-profile-api
+  consumesAPI: [customer-profile-api]
+#  providesApi:
+#    - customer-profile
+#    - customer-profile-api
+#  apiProvidedBy:
+#    - customer-profile
+#    - customer-profile-api
   links:
     - url: https://customer-profile.apps.lab.synable.io/api-docs
       title: 'Customer Profile API Docs'

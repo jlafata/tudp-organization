@@ -15,9 +15,10 @@ spec:
   system: demo
   definition:
     $text: customer-profile.json
-  providesApi:
-    - customer-profile
-    - customer-profile-api
-  apiProvidedBy:
-    - customer-profile
-    - customer-profile-api
+  providesApi:  [customer-profile]
+#  providesApi:
+#    - customer-profile
+#    - customer-profile-api
+#  apiProvidedBy:
+#    - customer-profile
+#    - customer-profile-api
