@@ -15,7 +15,9 @@ spec:
     - ./groups/tas-dev-ex.yaml
     - ./systems/demo-demo-space.yaml
     - ./domains/tanzu-unified-dev-portal.yaml
-    - ./accelerators/blank.yaml
+#accelerator target does not work in TAS 4.0
+#    - ./accelerators/blank.yaml
+#unused targets
 #    - ./resources/amjs-test-inst.yaml
 #    - ./components/cf-api/amjs-test.yaml
 #    - ./components/cf-cli/amjs-test.yaml
