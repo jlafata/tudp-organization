@@ -19,7 +19,7 @@ spec:
   lifecycle: experimental
   owner: tas-dev-ex
   system: demo
-  consumesAPI: [customer-profile-api]
+  consumesAPI: [API:customer-profile-api]
 #  providesApi:
 #    - customer-profile
 #    - customer-profile-api
