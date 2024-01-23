@@ -9,6 +9,7 @@ spec:
   targets:
     - ./components/apps-manager/apps-homelab.yaml
     - ./components/spring-music/spring-music-older.yaml
+    - ./components/spring-petclinic/spring-petclinic.yaml
     - ./components/customer-profile/customer-profile.yaml
     - ./components/customer-profile/customer-profile-api.yaml
     - ./groups/org.yaml

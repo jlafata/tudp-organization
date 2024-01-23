@@ -1,0 +1,21 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: spring-petclinic
+  description: Spring Pet Clinic
+  tags:
+    - java
+    - spring
+    - cloud
+  annotations:
+    'backstage.io/kubernetes-label-selector': 'app=spring-petclinic'
+    'backstage.io/techdocs-ref': dir:.
+  links:
+    - url: https://spring-petclinic.apps.lab.synable.io
+      title: 'Spring Petclinic - sample application'
+      icon: locallibrary
+spec:
+  type: service
+  lifecycle: experimental
+  owner: tas-dev-ex
+  system: demo
